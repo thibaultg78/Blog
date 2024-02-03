@@ -17,7 +17,7 @@ az group create --name "MeetUp-Devoteam2" --location northeurope
 # VM creation Confidential Computing
 # Show in the Azure Portal
 az vm create --resource-group "MeetUp-Devoteam2" --name "MeetUpConfidentialVMv2" `
---generate-ssh-keys --size Standard_DC4as_v5  --admin-username thibault --admin-password "coucou123456." `
+--generate-ssh-keys --size Standard_DC4as_v5  --admin-username thibault --admin-password "P@ssword123456." `
 --enable-vtpm true --image "Canonical:0001-com-ubuntu-confidential-vm-focal:20_04-lts-cvm:latest" `
 --public-ip-sku Standard   --security-type ConfidentialVM `
 --os-disk-security-encryption-type VMGuestStateOnly `
