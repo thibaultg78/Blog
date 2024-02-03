@@ -1,3 +1,6 @@
+# Get additional explanations on the original blog post: https://akril.net/recuperer-et-classer-vos-photos-icloud-en-powershell/
+# No longer supported
+
 cls
 # Variables
 $PathToAlbumsandFavorites = "C:\Users\thgibard\Desktop\iCloud\Photos iCloud Lot 1 sur 4\Albums and Favorites"
