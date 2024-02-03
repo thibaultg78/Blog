@@ -1,5 +1,5 @@
 # Documentation
 
-See additional explanations and blog post here: https://github.com/thibaultg78/Blog/tree/main/Microsoft-Azure-Attestation
+See additional explanations and blog post here: https://akril.net/verifier-la-securite-de-votre-vm-avec-microsoft-azure-attestation
 
 Not supported
